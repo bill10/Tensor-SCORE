@@ -1,0 +1,191 @@
+node_id	label	type
+0	Adenocarcinoma	C04
+1	Adenofibroma	C04
+2	Adenoma	C04
+3	Adrenal Cortex Neoplasms	C04
+4	Amblyopia	C10
+5	Amnesia	C10
+6	Ataxia	C10
+7	Autonomic Nervous System Diseases	C10
+8	Urinary Bladder Neoplasms	C04
+9	Brain Diseases	C10
+10	Brain Injuries	C10
+11	Brain Neoplasms	C04
+12	Breast Neoplasms	C04
+13	Brenner Tumor	C04
+14	Carcinoid Tumor	C04
+15	Carcinoma	C04
+16	Carcinoma, Basal Cell	C04
+17	Carcinoma, Basosquamous	C04
+18	Adenocarcinoma, Bronchiolo-Alveolar	C04
+19	Carcinoma, Bronchogenic	C04
+20	Adenocarcinoma, Mucinous	C04
+21	Adenocarcinoma, Scirrhous	C04
+22	Carcinoma, Squamous Cell	C04
+23	Carcinosarcoma	C04
+24	Central Nervous System Diseases	C10
+25	Cerebellar Diseases	C10
+26	Intracranial Aneurysm	C10
+27	Intracranial Arteriosclerosis	C10
+28	Intracranial Embolism and Thrombosis	C10
+29	Cerebral Hemorrhage	C10
+30	Cerebral Palsy	C10
+31	Diffuse Cerebral Sclerosis of Schilder	C10
+32	Uterine Cervical Neoplasms	C04
+33	Chondroma	C04
+34	Chondrosarcoma	C04
+35	Chordoma	C04
+36	Choriocarcinoma	C04
+37	Choroid Neoplasms	C04
+38	Colonic Neoplasms	C04
+39	Coma	C10
+40	Carcinoma, Adenoid Cystic	C04
+41	Cystadenoma	C04
+42	Phyllodes Tumor	C04
+43	Cysts	C04
+44	Dementia	C10
+45	Down Syndrome	C10
+46	Dysgerminoma	C04
+47	Ear Neoplasms	C04
+48	Ependymoma	C04
+49	Epilepsy	C10
+50	Esophageal Neoplasms	C04
+51	Eye Neoplasms	C04
+52	Fibroma	C04
+53	Fibrosarcoma	C04
+54	Friedreich Ataxia	C10
+55	Gallbladder Neoplasms	C04
+56	Giant Cell Tumors	C04
+57	Glioblastoma	C04
+58	Glioma	C04
+59	Glomus Tumor	C04
+60	Granulosa Cell Tumor	C04
+61	Hallucinations	C10
+62	Hamartoma	C04
+63	Head and Neck Neoplasms	C04
+64	Headache	C10
+65	Heart Neoplasms	C04
+66	Hemangioma	C04
+67	Hemangiopericytoma	C04
+68	Hemianopsia	C10
+69	Hemiplegia	C10
+70	Carcinoma, Hepatocellular	C04
+71	Hodgkin Disease	C04
+72	Hydatidiform Mole	C04
+73	Hydrocephalus	C10
+74	Hypothalamic Neoplasms	C04
+75	Intestinal Neoplasms	C04
+76	Adenoma, Islet Cell	C04
+77	Kidney Neoplasms	C04
+78	Laryngeal Neoplasms	C04
+79	Leiomyoma	C04
+80	Leiomyosarcoma	C04
+81	Leukemia	C04
+82	Leukemia, Experimental	C04
+83	Leukemia, Lymphoid	C04
+84	Leukemia, Myeloid	C04
+85	Leukoplakia	C04
+86	Leydig Cell Tumor	C04
+87	Lipoma	C04
+88	Liver Neoplasms	C04
+89	Liver Neoplasms, Experimental	C04
+90	Lung Neoplasms	C04
+91	Lymphoma	C04
+92	Lymphoma, Non-Hodgkin	C04
+93	Malignant Carcinoid Syndrome	C04
+94	Maxillary Sinus Neoplasms	C04
+95	Mediastinal Neoplasms	C04
+96	Medulloblastoma	C04
+97	Melanoma	C04
+98	Meningioma	C04
+99	Mesenchymoma	C04
+100	Mesonephroma	C04
+101	Mesothelioma	C04
+102	Migraine Disorders	C10
+103	Adenoma, Pleomorphic	C04
+104	Mouth Neoplasms	C04
+105	Movement Disorders	C10
+106	Multiple Myeloma	C04
+107	Multiple Sclerosis	C10
+108	Muscular Atrophy	C10
+109	Myoclonus	C10
+110	Myoma	C04
+111	Myxoma	C04
+112	Myxosarcoma	C04
+113	Nasopharyngeal Neoplasms	C04
+114	Neoplasm Metastasis	C04
+115	Neoplasms	C04
+116	Neoplasms, Experimental	C04
+117	Neoplasms, Muscle Tissue	C04
+118	Neoplasms, Nerve Tissue	C04
+119	Wilms Tumor	C04
+120	Neurilemmoma	C04
+121	Neuritis	C10
+122	Neuroblastoma	C04
+123	Neurofibroma	C04
+124	Neurologic Manifestations	C10
+125	Neuroma	C04
+126	Nevus	C04
+127	Nevus, Pigmented	C04
+128	Nose Neoplasms	C04
+129	Ophthalmoplegia	C10
+130	Optic Nerve Diseases	C10
+131	Osteoma	C04
+132	Ovarian Neoplasms	C04
+133	Pancreatic Neoplasms	C04
+134	Papilloma	C04
+135	Paraganglioma	C04
+136	Paralysis	C10
+137	Parkinson Disease	C10
+138	Penile Neoplasms	C04
+139	Pharyngeal Neoplasms	C04
+140	Pheochromocytoma	C04
+141	Pinealoma	C04
+142	Pituitary Diseases	C10
+143	Prostatic Neoplasms	C04
+144	Rectal Neoplasms	C04
+145	Rhabdomyoma	C04
+146	Rhabdomyosarcoma	C04
+147	Sarcoma	C04
+148	Sarcoma, Experimental	C04
+149	Osteosarcoma	C04
+150	Seizures	C10
+151	Sertoli Cell Tumor	C04
+152	Sigmoid Neoplasms	C04
+153	Skin Neoplasms	C04
+154	Skull Neoplasms	C04
+155	Sleep Disorders	C10
+156	Spasm	C10
+157	Speech Disorders	C10
+158	Spinal Cord Diseases	C10
+159	Spinal Cord Injuries	C10
+160	Spinal Cord Neoplasms	C04
+161	Splenic Neoplasms	C04
+162	Stomach Neoplasms	C04
+163	Strabismus	C10
+164	Subarachnoid Hemorrhage	C10
+165	Syncope	C10
+166	Teratoma	C04
+167	Testicular Neoplasms	C04
+168	Thecoma	C04
+169	Tongue Neoplasms	C04
+170	Tonsillar Neoplasms	C04
+171	Tremor	C10
+172	Trigeminal Neuralgia	C10
+173	Ureteral Neoplasms	C04
+174	Urethral Neoplasms	C04
+175	Uterine Neoplasms	C04
+176	Vaginal Neoplasms	C04
+177	Vulvar Neoplasms	C04
+178	Spinal Dysraphism	C10
+179	Lymphoma, Large B-Cell, Diffuse	C04
+180	Choroid Plexus Neoplasms	C04
+181	Neurofibromatoses	C04
+182	Neuroectodermal Tumors, Primitive, Peripheral	C04
+183	Cystadenoma, Mucinous	C04
+184	Cystadenoma, Papillary	C04
+185	Sertoli-Leydig Cell Tumor	C04
+186	Optic Nerve Neoplasms	C04
+187	Ulnar Neuropathies	C10
+188	Brachial Plexus Neuropathies	C10
+189	Carcinoma, Ductal	C04
